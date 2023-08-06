@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">a8f2fc6b-0d65-4982-a88f-0e30e278351a</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a8f2fc6b-0d65-4982-a88f-0e30e278351a</dc:identifier>
+        <dc:title>The Accounting Game: Basic Accounting Fresh from the Lemonade Stand</dc:title>
+        <dc:creator opf:file-as="Orloff, Judith &amp; Mullis, Darrell" opf:role="aut">Judith Orloff</dc:creator>
+        <dc:creator opf:file-as="Orloff, Judith &amp; Mullis, Darrell" opf:role="aut">Darrell Mullis</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-02-29T17:00:00+00:00</dc:date>
+        <dc:publisher>Sourcebooks, Inc.</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
